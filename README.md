@@ -24,7 +24,22 @@ PRD (Project Requirement Document)
      2) People in the subway who want to burn time and are tired of playing mobile games.
      3) Lonely people, who need a bit of company.
      
+   User Problems Solved:
    
+   User Need (example): Sorts out parent-child comments
+   Resolution: Using _method_ The Chat Bot sorts out, differentiates, and understands the comments, sotoring data for later use in the conversations.
+   
+   
+   User Need:
+   Resolution:
+   
+   
+   User Need:
+   Resolution:
+   
+   
+   User Need:
+   Resolution:
      
      
      
