@@ -1,0 +1,13 @@
+Product Requirement Document
+
+   Who is going to use this application?
+  
+    1) Scientists involved in light chemistry, biology, geology, anatomy and environmental sciences.
+    2) Students learning about spectrometry in their university curriculum (e.g. Chemistry class students)
+    3) AUA lab workers (students and instructors) who want to analyse their solution and get full compound data.
+   
+   Why are people going to use this application?
+   
+    1) To get full compound data very fast, without the need of tedeous manual analysis.
+    2) It can be used with any spectrometer that uses a camera as it's light sensor.
+    3) The software can connect to extensive databases, and any comparison data can be found.
