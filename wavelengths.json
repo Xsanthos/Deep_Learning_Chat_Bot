@@ -1,0 +1,292 @@
+{
+  "wavelengths" :  [
+  {
+    "wavelength" : 400,
+    "color": [131, 0, 181]
+  },
+  {
+    "wavelength" : 401,
+    "color": [131, 0, 185]
+  },
+  {
+    "wavelength" : 402,
+    "color": [131, 0, 188]
+  },
+  {
+    "wavelength" : 403,
+    "color": [131, 0, 192]
+  },
+  {
+    "wavelength" : 404,
+    "color": [130, 0, 196]
+  },
+  {
+    "wavelength" : 405,
+    "color": [130, 0, 200]
+  },
+  {
+    "wavelength" : 406,
+    "color" : [129, 0, 204]
+  },
+  {
+    "wavelength" : 407,
+    "color" : [129, 0, 207]
+  },
+  {
+    "wavelength" : 408,
+    "color" : [128, 0, 211]
+  },
+  {
+    "wavelength" : 409,
+    "color" : [127, 0, 215]
+  },
+  {
+    "wavelength" : 410,
+    "color" : [126, 0, 219]
+  },
+  {
+    "wavelength" : 411,
+    "color" : [124, 0, 222]
+  },
+  {
+    "wavelength" : 412,
+    "color" : [123, 0, 226]
+  },
+  {
+    "wavelength" : 413,
+    "color" : [121, 0, 230]
+  },
+  {
+    "wavelength" : 414,
+    "color" : [120, 0, 233]
+  },
+  {
+    "wavelength" : 415,
+    "color" : [118, 0, 237]
+  },
+  {
+    "wavelength" : 416,
+    "color" : [116, 0, 241]
+  },
+  {
+    "wavelength" : 417,
+    "color" : [113, 0, 244]
+  },
+  {
+    "wavelength" : 418,
+    "color" : [111, 0, 248]
+  },
+  {
+    "wavelength" : 419,
+    "color" : [109, 0, 251]
+  },
+  {
+    "wavelength" : 420,
+    "color" : [106, 0, 255]
+  },
+  {
+    "wavelength" : 421,
+    "color" : [102, 0, 255]
+  },
+  {
+    "wavelength" : 422,
+    "color" : [97, 0, 255]
+  },
+  {
+    "wavelength" : 423,
+    "color" : [93, 0, 255]
+  },
+  {
+    "wavelength" : 424,
+    "color" : [89, 0, 255]
+  },
+  {
+    "wavelength" : 425,
+    "color" : [84, 0, 255]
+  },
+  {
+    "wavelength" : 426,
+    "color" : [80, 0, 255]
+  },
+  {
+    "wavelength" : 427,
+    "color" : [75, 0, 255]
+  },
+  {
+    "wavelength" : 428,
+    "color" : [70, 0, 255]
+  },
+  {
+    "wavelength" : 429,
+    "color" : [66, 0, 255]
+  },
+  {
+    "wavelength" : 430,
+    "color" : [61, 0, 255]
+  },
+  {
+    "wavelength" : 431,
+    "color" : [56, 0, 255]
+  },
+  {
+    "wavelength" : 432,
+    "color" : [51, 0, 255]
+  },
+  {
+    "wavelength" : 433,
+    "color" : [46, 0, 255]
+  },
+  {
+    "wavelength" : 434,
+    "color" : [40, 0, 255]
+  },
+  {
+    "wavelength" : 435,
+    "color" : [35, 0, 255]
+  },
+  {
+    "wavelength" : 436,
+    "color" : [29, 0, 255]
+  },
+  {
+    "wavelength" : 437,
+    "color" : [23, 0, 255]
+  },
+  {
+    "wavelength" : 438,
+    "color" : [17, 0, 255]
+  },
+  {
+    "wavelength" : 439,
+    "color" : [10, 0, 255]
+  },
+  {
+    "wavelength" : 440,
+    "color" : [0, 0, 255]
+  },
+  {
+    "wavelength" : 441,
+    "color" : [0, 11, 255]
+  },
+  {
+    "wavelength" : 442,
+    "color" : [0, 19, 255]
+  },
+  {
+    "wavelength" : 443,
+    "color" : [0, 27, 255]
+  },
+  {
+    "wavelength" : 444,
+    "color" : [0, 34, 255]
+  },
+  {
+    "wavelength" : 445,
+    "color" : [0, 40, 255]
+  },
+  {
+    "wavelength" : 446,
+    "color" : [0, 47, 255]
+  },
+  {
+    "wavelength" : 447,
+    "color" : [0, 53, 255]
+  },
+  {
+    "wavelength" : 448,
+    "color" : [0, 59, 255]
+  },
+  {
+    "wavelength" : 449,
+    "color" : [0, 65, 255]
+  },
+  {
+    "wavelength" : 450,
+    "color" : [0, 70, 255]
+  },
+  {
+    "wavelength" : 451,
+    "color" : [0, 76, 255]
+  },
+  {
+    "wavelength" : 452,
+    "color" : [0, 81, 255]
+  },
+  {
+    "wavelength" : 453,
+    "color" : [0, 87, 255]
+  },
+  {
+    "wavelength" : 454,
+    "color" : [0, 92, 255]
+  },
+  {
+    "wavelength" : 455,
+    "color" : [0, 97, 255]
+  },
+  {
+    "wavelength" : 456,
+    "color" : [0, 102, 255]
+  },
+  {
+    "wavelength" : 457,
+    "color" : [0, 108, 255]
+  },
+  {
+    "wavelength" : 458,
+    "color" : [0, 113, 255]
+  },
+  {
+    "wavelength" : 459,
+    "color" : [0, 118, 255]
+  },
+  {
+    "wavelength" : 460,
+    "color" : [0, 123, 255]
+  },
+  {
+    "wavelength" : 461,
+    "color" : [0, 127, 255]
+  },
+  {
+    "wavelength" : 462,
+    "color" : [0, 132, 255]
+  },
+  {
+    "wavelength" : 463,
+    "color" : [0, 137, 255]
+  },
+  {
+    "wavelength" : 464,
+    "color" : [0, 142, 255]
+  },
+  {
+    "wavelength" : 465,
+    "color" : [0, 146, 255]
+  },
+  {
+    "wavelength" : 466,
+    "color" : [0, 151, 255]
+  },
+  {
+    "wavelength" : 467,
+    "color" : [0, 156, 255]
+  },
+  {
+    "wavelength" : 468,
+    "color" : [0, 160, 255]
+  },
+  {
+    "wavelength" : 469,
+    "color" : [0, 165, 255]
+  },
+  {
+    "wavelength" : 470,
+    "color" : [0, 169, 255]
+  },
+  {
+    "wavelength" : 471,
+    "color" : [0,173, 255]
+  }
+
+]}
